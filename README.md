@@ -1,9 +1,8 @@
 # Xelk25.github.io
 <html>
   <head>
-  <title>Test Website</title>
   </head>
   <body>
-<a href="Home.html">This link is here</a>
+<a href="Website/Home.html">This link is here</a>
   </body>
 </html>
