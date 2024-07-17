@@ -3,6 +3,6 @@
   <head>
   </head>
   <body>
-<a href="contact.html">This link is here</a>
+<a href="camera.html">This link is here</a>
   </body>
 </html>
