@@ -3,6 +3,6 @@
   <head>
   </head>
   <body>
-<a href="home.html">The link is here</a>
+<a href="Home.html">The link is here</a>
   </body>
 </html>
